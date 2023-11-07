@@ -1,5 +1,11 @@
 # My Personal Portfolio
 
+## Preview
+
+Here's a sneak peek of how my portfolio looks:
+
+https://github.com/murateshimov/cs203-midterm-assignment/assets/57397667/e842c6ea-3e73-4356-9b1b-231d1eb7a8cf
+
 Welcome to my personal portfolio! This project showcases my skills and experiences as a web developer. I have crafted this portfolio using HTML and CSS, keeping it simple and elegant.
 
 ## Features
@@ -11,15 +17,6 @@ Welcome to my personal portfolio! This project showcases my skills and experienc
 - **Portfolio Section:** In the portfolio section, I've included examples of my work. You can check out my projects and see the skills and technologies I've used in each one. Click on the project thumbnails to learn more.
 
 - **Contact Links:** I've included links to my social media profiles and email for easy contact. Feel free to reach out to me if you have any inquiries or just want to connect!
-
-## Preview
-
-Here's a sneak peek of how my portfolio looks:
-
-
-
-https://github.com/murateshimov/cs203-midterm-assignment/assets/57397667/e842c6ea-3e73-4356-9b1b-231d1eb7a8cf
-
 
 ## Deployment
 
