@@ -30,7 +30,7 @@ https://github.com/murateshimov/cs203-midterm-assignment/assets/57397667/e842c6e
 
 ## Deployment
 
-I've deployed my portfolio using GitHub Pages, which means you can access it online at [Your GitHub Pages URL](https://murateshimov.github.io/cs203-midterm-assignment/).
+I've deployed my portfolio using GitHub Pages, which means you can access it online at [here](https://murateshimov.github.io/cs203-midterm-assignment/).
 
 ## Credits
 
