@@ -21,23 +21,6 @@ Here's a sneak peek of how my portfolio looks:
 https://github.com/murateshimov/cs203-midterm-assignment/assets/57397667/e842c6ea-3e73-4356-9b1b-231d1eb7a8cf
 
 
-
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser to view the portfolio.
-3. Explore my work and reach out through the provided contact links.
-
 ## Deployment
 
 I've deployed my portfolio using GitHub Pages, which means you can access it online at [here](https://murateshimov.github.io/cs203-midterm-assignment/).
-
-## Credits
-
-I'd like to give credit to [insert name or resource] for the [insert inspiration or element] used in my portfolio.
-
-## Feedback
-
-I'm constantly looking to improve, so please feel free to provide feedback or report any issues. You can reach me through the contact links on my portfolio.
-
-I hope you enjoy exploring my personal portfolio, and I look forward to connecting with you!
