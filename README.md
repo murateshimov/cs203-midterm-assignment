@@ -16,7 +16,11 @@ Welcome to my personal portfolio! This project showcases my skills and experienc
 
 Here's a sneak peek of how my portfolio looks:
 
-![Portfolio Preview](portfolio-preview.png)
+
+
+https://github.com/murateshimov/cs203-midterm-assignment/assets/57397667/e842c6ea-3e73-4356-9b1b-231d1eb7a8cf
+
+
 
 ## How to Use
 
